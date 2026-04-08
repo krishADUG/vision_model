@@ -1,0 +1,8 @@
+# requirements.txt
+numpy==1.24.3
+opencv-python==4.8.0
+open3d==0.17.0
+python-pcl==0.3.0  # PCL bindings can be tricky; Open3D is often a safer fallback
+tensorflow==2.13.0
+torch==2.0.1
+torchvision==0.15.2
